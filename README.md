@@ -1,6 +1,6 @@
 # Hatch press toolkit
 
-![Hatch](https://cdn.tohoku.ac/hatchbg.jpg)
+![Hatch](https://cdn.tohoku.ac/hatchbg2.jpg)
 
 This is a branding toolkit created by [Alexander Nicholi][nich] for the
 Hatch game engine. Several pre-renders in common aspect ratios are
