@@ -1,0 +1,21 @@
+########################################################################
+##                            Hinterlib v2                            ##
+##                                                                    ##
+##             Copyright (C) 2019-2024 Alexander Nicholi.             ##
+##           Copyright (C) 2024-2025 Aquefir Consulting LLC           ##
+##            Released under Artisan Software Licence v1.1            ##
+########################################################################
+
+README.md text eol=lf
+COPYING text eol=lf
+*.ai binary
+*.md text eol=lf
+*.png binary
+*.psd binary
+*.svg text eol=lf
+
+*.ai linguist-vendored
+*.md linguist-vendored
+*.png linguist-vendored
+*.psd linguist-vendored
+*.svg linguist-vendored
